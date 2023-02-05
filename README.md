@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @SafakSecginer
-- 👀 I’m interested in Android Software
-- 🌱 I’m currently learning ... Java & Android
-- 📫 How to reach me ... www.linkedin.com/in/safaksecginer
+
